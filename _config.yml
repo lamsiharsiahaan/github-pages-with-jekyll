@@ -8,5 +8,6 @@ description: > # wowowowowoowo"
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
+2
 show_excerpts: true # set to false to remove excerpts on the homepage
+3
